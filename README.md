@@ -4,12 +4,12 @@ Hi 👋 My name is Martin Hristov
 Junior Web Developer
 --------------------
 
-I am currently graduating SoftUni JavaScript program and i am excited for my upcoming journey in IT industry
+I am currently graduating SoftUni JavaScript program and i am excited for snapping my fingers in order to grow into the IT industry!
 
 * 🌍  I'm based in Burgas
 * ✉️  You can contact me at [hristovgmartin@gmail.com](mailto:hristovgmartin@gmail.com)
 * 🤝  I'm open to collaborating on All kind of projects
-* ⚡  I am Iron Man
+* ⚡  I am Iron Man!
 
 ### Skills
 
